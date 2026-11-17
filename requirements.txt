@@ -1,0 +1,6 @@
+# Install matching torch and torchvision builds for your hardware first.
+ipykernel==7.3.0
+matplotlib==3.11.0
+numpy==2.2.6
+Pillow==12.3.0
+pytorch-ignite==0.5.3

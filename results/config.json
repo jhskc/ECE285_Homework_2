@@ -1,0 +1,18 @@
+{
+  "epochs": 100,
+  "train_count": 75000,
+  "validation_count": 5000,
+  "batch_size": 128,
+  "num_workers": 12,
+  "prefetch_factor": 4,
+  "latent_dim": 100,
+  "learning_rate": 0.0001,
+  "betas": [
+    0.5,
+    0.999
+  ],
+  "seed": 285,
+  "log_every": 50,
+  "eval_every": 5,
+  "eval_batch_size": 64
+}
